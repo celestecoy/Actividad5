@@ -1,0 +1,37 @@
+.footer{
+    width: 100%;
+    padding-top: 100%;
+}
+
+.iconosredes{
+    text-align: center;
+
+}
+
+
+.ajusteicono{
+    display: inline-flex;
+       margin: 40px  10px;
+       width: 20%;
+       height: 30%;  
+}
+
+.ajusteicono img{
+    text-align: center;
+    top: 450%;
+    left: -30%;
+    width: 20%;
+    height: 84%;
+   
+}
+
+.textofooter{
+    padding-top: 5%;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    background-color: rgb(11, 94, 42);
+    height: 50px;
+}

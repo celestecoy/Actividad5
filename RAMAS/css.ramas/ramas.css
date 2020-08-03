@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+
+}
+
+body{
+  margin: 0;
+  background-color: #ff0a0a;
+
+}
+
+.bloquetitulo{
+  font-size: 40px;
+  letter-spacing: 1px;
+  margin: 0;
+  padding-top: 50px;
+  text-align: center;
+  font-family: cursive;
+  color: rgb(44, 139, 6);
+
+}
+
+.parrafotitulo1{
+  letter-spacing: 1px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  margin-top: -30px;
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 35px;
+}
+
+.icono2{
+ padding: 50px  12px  33px  22px;
+
+}
+
+.bloquetitulo2{
+
+  width: 100%;
+  display: inline-block;
+  font-size: 35px;
+  letter-spacing: 1px;
+  margin: 0;
+  padding-top: 35px;
+  text-align: center;
+  color: rgb(187, 87, 218);
+  font-family: cursive;
+  background-image: url(../imagenesramas/fondosrosita.jpg);
+  background-attachment: fixed;
+  background-size: 50%;
+}
+
+.parrafotitulo2{
+
+  letter-spacing: 1px;
+  font-family: cursive;
+  color: #000000;
+  text-align: left;
+  margin-left: 85px;
+  margin-top: 45px;
+  text-align: center;
+  font-size: 25px;
+  float: left;
+
+}

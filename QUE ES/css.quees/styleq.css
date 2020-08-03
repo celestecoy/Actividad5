@@ -1,0 +1,46 @@
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: #10e0be;
+    font-size: 23px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: -8px;
+    
+    }
+    
+    .icononeuro{
+        background: #18a2c5;
+        margin: auto;
+        text-align: center;
+        padding-top: 15px;
+    
+    }
+    
+    .menu ul{
+       padding: 0;
+       margin: 0;
+       list-style: none;
+       display: inline-flex;
+    }
+    
+    .menu li{
+        padding-top: 15px;
+        padding-left: 30px;
+    
+    }
+    
+    .menu li a:hover{
+        color: rgb(192, 60, 196);
+        text-decoration: overline;
+    }
+    
+    .menu li a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+        color: white;
+    
+    
+    }
